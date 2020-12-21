@@ -1,0 +1,21 @@
+Puzzle:
+
+WAQHGTTWEE
+CBMIVQQELS
+APXWKWIIIL
+LDELFXPIPV
+PONDTMVAMN
+OEDSOYQGOB
+LGQCKGMMCT
+YCSLOACUZM
+XVDMGSXCYZ
+UUIUNIXFNU
+
+UNIX: (FORWARD) row: 9 column: 3
+CALPOLY: (DOWN) row: 1 column: 0
+GCC: (DIAGONAL) row: 6 column: 5
+SLO: (FORWARD) row: 7 column: 2
+CPE: (DIAGONAL) row: 1 column: 0
+COMPILE: (UP) row: 6 column: 8
+VIM: (BACKWARD) row: 1 column: 4
+TEST: word not found
